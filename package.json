@@ -1,8 +1,8 @@
 {
   "name": "async-script-promise",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "asynchronously load scripts, returns a promise",
-  "keywords": [],
+  "keywords": ["async", "loading", "promise"],
   "author": "Matthew Mueller <mattmuelle@gmail.com>",
   "repository": {
     "type": "git",
